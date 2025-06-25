@@ -4,9 +4,14 @@ Im ryan i wanted to make a keybaord so i made a keyboard
 
 it has buttons so i can type on the keyboard and they are shapped weirdly because i wanted too make them like that
 
+this is the cad
 
 ![image](https://github.com/user-attachments/assets/418c653a-8caa-4046-beb8-7f19b6deff14)
 
+here is the schematic and pcb design
+
+![shcematic](https://github.com/user-attachments/assets/13cf51a3-5337-4521-b48c-73c16758c04e)
+![pcb](https://github.com/user-attachments/assets/fcaa4739-ce7d-452d-930d-4c96ad5af138)
 
 # BOM
 43 cherry mx switches, $0.40 each, https://mechanicalkeyboards.com/products/cherry-mx2a-blue-60g-clicky?variant=48020492058924
